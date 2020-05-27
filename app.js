@@ -1,4 +1,4 @@
-//Hello world
+//This is a sample feature addition
 console.log("Hello World!");
 var a=1995;
 var b=year-a;
