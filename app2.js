@@ -1,3 +1,3 @@
 //TODO file where are my work
 
-console.alert("Hello Everyone!\n");
+console.log("Hello Everyone!\n");
