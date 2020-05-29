@@ -6,5 +6,5 @@ var year=2020;
 console.log(year);
 p = new Object();
 p.nombre= "Brayann";
-p.edad=25;
+p.edad=25;c
 console.log(p);
